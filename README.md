@@ -33,9 +33,9 @@
 
 I am a product-focused **Software Engineer** and **Systems Integration Specialist** operating at the intersection of enterprise architecture and high-efficiency business operations. Currently serving as a Systems Integration Intern at **JumpCo** and pursuing my diploma in Business Information Technology at the **University of Johannesburg**, I specialize in designing robust API pipelines, secure full-stack cloud applications, and automated workflow ecosystems.
 
-Beyond corporate engineering, I am the Founder and CEO of **Benetrix International**. I engineer real-world solutions—from mobile-optimized fleet tracking systems to AI camera operations and commercial invoicing architectures—ensuring that business vision is matched by scalable technical execution.
+Beyond corporate engineering, I am the Founder and CEO of **Benetrix International**. I engineer real-world solutions—from automated B2B enterprise procurement pipelines and corporate landing pages to AI camera operations and commercial invoicing architectures—ensuring that business vision is matched by scalable technical execution.
 
-* **Open To:** Enterprise Backend Architecture, Systems Integration Engineering, Full-Stack SaaS Development.
+- **Open To:** Enterprise Backend Architecture, Systems Integration Engineering, Full-Stack SaaS Development.
 
 ---
 
@@ -75,6 +75,34 @@ Beyond corporate engineering, I am the Founder and CEO of **Benetrix Internation
 ### ✦ Featured Engineering Projects
 
 <details>
+<summary><b>Solar Shine Commercial Platform</b> <i>(Click to expand)</i></summary>
+
+> High-converting single-page application with an interactive efficiency loss calculator and dynamic WhatsApp API integration.
+
+| Metric | Details |
+| :--- | :--- |
+| **Stack** | HTML5, CSS3, Vanilla JavaScript |
+| **Scale** | B2C Local Service Business |
+| **Performance** | Mobile-optimized, ultra-lightweight single-file architecture |
+| **Impact** | Engineered a localized digital sales funnel directly routing customized, calculated service quotes to WhatsApp. |
+| **Repository** | [View Live Demo](https://dxnchi.github.io/solar-shine-demo/) |
+</details>
+
+<details>
+<summary><b>Benetrix Enterprise Architecture Portal</b> <i>(Click to expand)</i></summary>
+
+> Premium corporate web presence mapping out IT procurement pipelines and custom software infrastructure capabilities.
+
+| Metric | Details |
+| :--- | :--- |
+| **Stack** | JavaScript, HTML5, CSS3 |
+| **Scale** | B2B Enterprise / Public Sector |
+| **Compliance** | Integrated statutory metrics (CSD, SARS, CIPC, B-BBEE Level 1) |
+| **Impact** | Structured Benetrix as a highly viable vendor for corporate RFQs and wholesale IT hardware distribution. |
+| **Repository** | [View Live Portal](https://dxnchi.github.io/benetrix-landing/) |
+</details>
+
+<details>
 <summary><b>CivicSync Cloud Platform</b> <i>(Click to expand)</i></summary>
 
 > Enterprise-grade booking and administrative dashboard engineered for highly secure, real-time data management.
@@ -86,9 +114,6 @@ Beyond corporate engineering, I am the Founder and CEO of **Benetrix Internation
 | **Performance** | Optimized asynchronous API data routing |
 | **Security** | Supabase Auth, Row Level Security (RLS) policies, secure environment variable pipelines |
 | **Impact** | Digitized manual booking processes into fully automated workflows. |
-| **Repository** | [View Source](https://github.com/Dxnchi) |
-
-Architected a full-stack cloud application featuring automated email generation, dynamic QR code confirmation pipelines, and real-time operational routing. Successfully deployed the backend API infrastructure to Render with seamless cloud database integrations.
 </details>
 
 <details>
@@ -100,29 +125,7 @@ Architected a full-stack cloud application featuring automated email generation,
 | :--- | :--- |
 | **Stack** | JavaScript, HTML5, CSS3, REST APIs |
 | **Scale** | Commercial fleet operations (Benetrix International) |
-| **Performance** | Lightweight, mobile-first responsive execution |
-| **Security** | Role-based operational access |
 | **Impact** | Centralized asset tracking, vehicle rentals, and operational records into a single digital hub. |
-| **Repository** | [Internal / Private](#) |
-
-Developed an internal software suite for Benetrix International to automate fleet tracking, vehicle maintenance logging, and real-time logistics analytics, eliminating paper-based inefficiencies.
-</details>
-
-<details>
-<summary><b>Commercial Invoicing Framework</b> <i>(Click to expand)</i></summary>
-
-> Customized live commercial web platform featuring a secure, backend-driven invoicing system.
-
-| Metric | Details |
-| :--- | :--- |
-| **Stack** | Node.js, SQL, Web Technologies |
-| **Scale** | B2B / B2C Retail |
-| **Performance** | Instant automated invoice generation and PDF rendering |
-| **Security** | Encrypted transactional data storage |
-| **Impact** | Deployed live commercial infrastructure for IFENRI Market. |
-| **Repository** | [View Source](https://github.com/Dxnchi) |
-
-Architected and launched a fully customized commercial storefront with an integrated backend invoicing tool, transitioning a traditional retail business into a digitized e-commerce environment.
 </details>
 
 ---
@@ -130,35 +133,26 @@ Architected and launched a fully customized commercial storefront with an integr
 ### ✦ Professional Experience
 
 **Systems Integration and Development Intern** | JumpCo
-*Jan 2026 – Present*
+*Feb 2026 – Present*
 
 Executing a rigorous enterprise software engineering role focused on corporate-grade backend infrastructure.
-* Designing and deploying highly robust enterprise API integrations using IBM App Connect Enterprise (ACE).
-* Architecting and managing secure database pipelines (PostgreSQL/SQLite) for large-scale systemic operations.
-* Developing RESTful APIs to bridge isolated corporate applications and automate vast data flows.
+- Designing and deploying highly robust enterprise API integrations using IBM App Connect Enterprise (ACE).
+- Architecting and managing secure database pipelines (PostgreSQL/SQLite) for large-scale systemic operations.
+- Developing RESTful APIs to bridge isolated corporate applications and automate vast data flows.
 
 `IBM ACE` `REST APIs` `Node.js` `PostgreSQL` `Enterprise Architecture`
 
 <br/>
 
 **Founder & CEO** | Benetrix International
-*Jan 2023 – Present*
+*Nov 2025 – Present*
 
-Bridging the gap between software engineering and physical business execution.
-* Directing commercial operations spanning tech reselling, modern vehicle rentals, and AI camera operations.
-* Developing custom proprietary software solutions (Logistics Trackers, Automated Invoicing) to digitize internal workflows.
-* Managing end-to-end B2B client relations, technical infrastructure deployments, and logistics scaling.
+Bridging the gap between software engineering and physical enterprise execution.
+- Directing corporate IT procurement, bridging B2B clients with wholesale IT supply chains (Mustek, Pinnacle, Rectron).
+- Developing custom proprietary software solutions and localized digital infrastructure to digitize internal workflows for local businesses.
+- Managing end-to-end B2B client relations, technical infrastructure deployments, and logistics scaling.
 
-`Product Engineering` `Logistics Tech` `Cloud Deployments` `Full-Stack Development`
-
----
-
-### ✦ Achievements & Recognition
-
-| Recognition | Details |
-| :--- | :--- |
-| **UJenius Club Orange Carpet (Pursuit)** | Maintaining top-tier academic excellence within the Business Information Technology program at the University of Johannesburg. |
-| **Live Commercial Deployments** | Successfully architected, secured, and launched multiple full-stack enterprise web applications to live production cloud servers. |
+`IT Procurement` `Product Engineering` `Cloud Deployments` `Full-Stack Development`
 
 ---
 
@@ -166,7 +160,10 @@ Bridging the gap between software engineering and physical business execution.
 
 <div align="center">
   <img src="https://img.shields.io/badge/University_of_Johannesburg-Business_Information_Technology-0D1117?style=for-the-badge&logo=google-scholar&logoColor=A970FF&borderColor=4B0082" />
+  <img src="https://img.shields.io/badge/University_of_Johannesburg-AI_in_4IR_Certificate-0D1117?style=for-the-badge&logo=robot&logoColor=A970FF&borderColor=4B0082" />
+  <br/>
   <img src="https://img.shields.io/badge/IBM-Enterprise_Systems_Integration-0D1117?style=for-the-badge&logo=ibm&logoColor=A970FF&borderColor=4B0082" />
+  <img src="https://img.shields.io/badge/IBM-Event_Automation_Sales_Foundation-0D1117?style=for-the-badge&logo=ibm&logoColor=A970FF&borderColor=4B0082" />
 </div>
 
 ---
@@ -229,12 +226,12 @@ Current_State:
     - Advanced API Microservices
     - CI/CD Deployment Pipelines
   Building:
-    - B2B Digital Invoice SaaS
-    - White-Label Booking Engines
-    - Logistics Routing Algorithms
+    - Automated WhatsApp AI Booking Agents
+    - Enterprise Hardware Procurement Pipelines
+    - B2B Digital Service Platforms
   Exploring:
     - Edge Computing
-    - Distributed PostgreSQL Clusters
+    - Python FastAPI SaaS Architectures
   Open_To:
     - Systems Architecture Roles
     - Full-Stack B2B Collaborations
